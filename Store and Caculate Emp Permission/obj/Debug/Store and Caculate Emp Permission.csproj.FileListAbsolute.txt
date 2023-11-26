@@ -1,0 +1,7 @@
+C:\Users\kenny\OneDrive\Desktop\c#\Store and Caculate Emp Permission\Store and Caculate Emp Permission\bin\Debug\Store and Caculate Emp Permission.exe.config
+C:\Users\kenny\OneDrive\Desktop\c#\Store and Caculate Emp Permission\Store and Caculate Emp Permission\bin\Debug\Store and Caculate Emp Permission.exe
+C:\Users\kenny\OneDrive\Desktop\c#\Store and Caculate Emp Permission\Store and Caculate Emp Permission\bin\Debug\Store and Caculate Emp Permission.pdb
+C:\Users\kenny\OneDrive\Desktop\c#\Store and Caculate Emp Permission\Store and Caculate Emp Permission\obj\Debug\Store and Caculate Emp Permission.csproj.AssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\c#\Store and Caculate Emp Permission\Store and Caculate Emp Permission\obj\Debug\Store and Caculate Emp Permission.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\c#\Store and Caculate Emp Permission\Store and Caculate Emp Permission\obj\Debug\Store and Caculate Emp Permission.exe
+C:\Users\kenny\OneDrive\Desktop\c#\Store and Caculate Emp Permission\Store and Caculate Emp Permission\obj\Debug\Store and Caculate Emp Permission.pdb
